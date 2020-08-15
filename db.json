@@ -1,0 +1,64 @@
+{
+  "products": [
+      {
+        "id": 1,
+        "name": "Anthurium Plant",
+        "description": "Anthurium is a herbacious plant known for its attractive spathes which are often considered as flowers mistakenly.",
+        "imageUrl": "https://cdng.nurserylive.com/images/stories/virtuemart/product/nurserylive-anthurium-any-color-plant.jpg?w=360&dpr=1.0",
+        "price": 799
+      },
+      {
+        "id": 2,
+        "name": "Aster Plant",
+        "description": "Asters get their name from the Latin word for 'star,' and their flowers are indeed the superstars of the fall garden.",
+        "imageUrl": "https://cdng.nurserylive.com/images/stories/virtuemart/product/nurserylive-Aster-Lavender.jpg?w=360&dpr=1.0",
+        "price": 299
+      },
+      {
+        "id": 3,
+        "name": "Arrowhead Plant",
+        "description": "Artificial Arrowhead Plant Arrangement in Pot Green/White",
+        "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_eac6ee44-9f19-4e93-8c1c-b65f91190be1?fmt=webp&wid=1400&qlt=80",
+        "price": 359
+      },
+      {
+        "id": 4,
+        "name": "Miniature Rose Plant",
+        "description": "The Red rose is a perennial flowering plant. Red roses are the most popular and quintessential Valentine's Day gift.",
+        "imageUrl": "https://cdng.nurserylive.com/images/stories/virtuemart/product/nurserylive-miniature-rose-red-plant9.jpg?w=360&dpr=1.0",
+        "price": 259
+      },
+      {
+        "id": 5,
+        "name": "Bobsai Adenium Plants",
+        "description": "Bonsai looking hardy grafted Adenium plants.Plants in this pack are loved among gardeners for its bonsai look and beautiful flowers.",
+        "imageUrl": "https://cdng.nurserylive.com/images/stories/virtuemart/product/nurserylive-set-of-2-bonsai-looking-grafted-adenium-plants-1.jpg?w=360&dpr=1.0",
+        "price": 699
+      },
+      {
+        "id": 6,
+        "name": "Verbena Quartz",
+        "description": "Verbena is one of those garden essentials that bloom from spring to fall with very little fuss.",
+        "imageUrl": "https://cdng.nurserylive.com/images/stories/virtuemart/product/nurserylive-verbena-quartz-mix-colors3.jpg?q=70&w=360&dpr=1.0",
+        "price": 145
+      }
+  ],
+  "cart": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
